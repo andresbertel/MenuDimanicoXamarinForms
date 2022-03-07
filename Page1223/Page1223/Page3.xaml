@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Page1223.Page3"
+             Title="Pagina 3">
+    
+    <ContentPage Title="Carusel 1">
+        <Label Text="Hola1"/>
+    </ContentPage>
+
+    <ContentPage Title="Carusel 2">
+        <Label Text="Hola2"/>
+    </ContentPage>
+    
+</CarouselPage>

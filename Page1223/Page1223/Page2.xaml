@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Page1223.Page2"
+             Title="Pagina 2"
+             BarBackgroundColor="Green">
+    
+    <TabbedPage.Children>
+        
+        <ContentPage Title="Tab1">
+            <Label Text="Tab 1"/>
+        </ContentPage>
+
+        <ContentPage Title="Tab2">
+            <Label Text="Tab 2"/>
+        </ContentPage>
+        
+    </TabbedPage.Children>
+</TabbedPage>
